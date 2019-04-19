@@ -18,6 +18,7 @@ With so many open source SVG icons out there, it's a shame to have to rigidly be
 * <https://labs.mapbox.com/maki-icons/>
 * <https://fontawesome.com/icons>
 * <https://icomoon.io/app/#/select>
+* <https://blueprintjs.com/docs/#core/components/icon>
 
 ### Knowledge
 
