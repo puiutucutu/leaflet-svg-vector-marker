@@ -24,3 +24,6 @@ With so many open source SVG icons out there, it's a shame to have to rigidly be
 
 * <https://svgontheweb.com/>
 * <https://www.sitepoint.com/real-world-use-of-css-with-svg/>
+* <http://apike.ca/prog_svg_js_create.html>
+* <https://www.lottejackson.com/learning/inline-svg-sprites-and-currentcolor>
+* <https://florianbrinkmann.com/en/4513/svg-use-element-javascript/>
