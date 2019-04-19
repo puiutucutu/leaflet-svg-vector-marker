@@ -8,6 +8,7 @@ With so many open source SVG icons out there, it's a shame to have to rigidly be
 ## Accepted SVG Input Config
 
 - JSON string pattern (paths and viewbox params)
+  * `pin.paths: ["M499..", "M172..."]` & `pin.viewbox: "0 0 384 512"`
 - Preloaded SVG icons
 
 ## SVG Icon Sources
