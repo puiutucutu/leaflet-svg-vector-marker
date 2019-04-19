@@ -11,8 +11,15 @@ With so many open source SVG icons out there, it's a shame to have to rigidly be
   * `pin.paths: ["M499..", "M172..."]` & `pin.viewbox: "0 0 384 512"`
 - Preloaded SVG icons
 
-## SVG Icon Sources
+## Resources
+
+### SVG Icon Sources
 
 * <https://labs.mapbox.com/maki-icons/>
 * <https://fontawesome.com/icons>
 * <https://icomoon.io/app/#/select>
+
+### Knowledge
+
+* <https://svgontheweb.com/>
+* <https://www.sitepoint.com/real-world-use-of-css-with-svg/>
